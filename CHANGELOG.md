@@ -1,5 +1,9 @@
 # Change log
 
+## 1.2.5 / 2016-09-24
+
+- Bugfix: The specified per-filter options were not applied to nested filters
+
 ## 1.2.4 / 2016-08-23
 
 - Update to `pug-walk@1.0.0`
